@@ -1,5 +1,6 @@
 
 
+
 # Social Kinship Analyzer 🧬🤖
 
 This is a hands-on Python project built with Pygame that turns raw social data into an interactive visual graph. Instead of looking at sterile text outputs, this tool lets you visualize how different search algorithms navigate through people's connections and friendships in real time.
@@ -20,6 +21,8 @@ The project is structured with clean, modular code to clearly demonstrate the pr
  <img width="1187" height="946" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/c43de98c-c656-4b79-90c4-0c37a6137432" />
 
 3. **DFS Mode (Button [F]):** This takes a deep dive. It picks one friend and follows their connection chain as deep as it goes before ever looking back. It doesn't guarantee the shortest route, but it’s perfect for exploring long, extended social chains.
+   <img width="1171" height="931" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/aaa45966-6ef0-4a7b-869c-9cb2d9414d10" />
+
 
 
 ## 🛠️ Tech Stack & Architecture
